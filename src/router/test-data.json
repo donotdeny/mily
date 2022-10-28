@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "detail": {
+    "_id": "6JZoSbJ",
+    "pathname": "6JZoSbJ",
+    "qrCode": {
+      "color": "#2f4050",
+      "background": "#fff",
+      "logo": ""
+    },
+    "totalClicks": 2,
+    "history": [
+      {
+        "Date": 1658975503,
+        "Clicks": 2
+      }
+    ],
+    "deepclick": {
+      "IsDeep": false,
+      "Android": 0,
+      "IOS": 0,
+      "Brower": 0
+    }
+  }
+}

@@ -1,0 +1,30 @@
+.mi-24 {
+    width: 24px;
+    height: 24px;
+    min-width: 24px;
+    min-height: 24px;
+}
+
+.mi-16 {
+    width: 16px;
+    height: 16px;
+    min-width: 16px;
+    min-height: 16px;
+}
+
+.mi-search {
+    background-position: -817px -145px;
+}
+
+.mi-plus {
+    background-position: -1489px -201px;
+}
+
+.mi {
+    background: url(../../assets/image/Sprites.64af8f61.svg) no-repeat;
+    cursor: pointer;
+}
+
+.mi-sidebar-cash {
+    background-position: -73px -1628px;
+}

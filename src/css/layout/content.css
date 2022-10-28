@@ -1,0 +1,23 @@
+.content {
+    border-bottom: solid 1px #e7eaec;
+    display: flex;
+    width: 100%;
+}
+
+.history {
+    position: relative;
+    width: 28%;
+    background: #FFFFFF;
+    border-radius: 0px 5px 5px 0px;
+    overflow-y: auto;
+}
+.history::-webkit-scrollbar{
+    display: none;
+}
+.detail{
+    border-left: 1px solid #e7eaec;
+    background-color: #FFFFFF;
+    width: calc(100% - 363px);
+    /* width: 72%; */
+    overflow-y: auto;
+}
